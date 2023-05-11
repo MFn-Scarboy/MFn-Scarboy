@@ -1,3 +1,4 @@
+![MasterHead](https://email.uplers.com/blog/wp-content/uploads/2020/07/GIF-blog.gif)
 <h1 align="center">Hi 👋, I'm Joel</h1>
 <h3 align="center">A passionate frontend developer from Amsterdam</h3>
 
@@ -6,6 +7,8 @@
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me **jrv3rkaik@gmail.com**
+
+<!-- <img align="right" src="https://media.tenor.com/SmKGlfj3-b8AAAAC/spooky-scary.gif" height="250" width="250" style="border-radius:50%;" /> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,4 +32,5 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mfn-scarboy&show_icons=true&locale=en&layout=compact" alt="mfn-scarboy" /></p>
 </p>

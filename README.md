@@ -1,6 +1,6 @@
 ![MasterHead](https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_600,h_240/https://getonstream.com/wp-content/uploads/2022/09/image1.gif)
 <h1 align="center">Hi 👋, I'm Joel</h1>
-<h3 align="center">A passionate frontend developer from Amsterdam</h3>
+<h3 align="center">A passionate developer from Amsterdam</h3>
 
 - 🌱 I’m currently learning more about **TypeScript**
 
